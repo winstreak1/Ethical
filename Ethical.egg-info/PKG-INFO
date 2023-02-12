@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Ethical
+Version: 0.0.1
+Summary: A python library to assist in writing ethical python code.
+Home-page: https://github.com/winstreak1/Ethical
+Author: Peter Mavronicolas
+Author-email: p.mavronicolas@gmail.com
+License: MIT
+Keywords: ethical,race creed,nationality,color,age
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python LL 3
+License-File: LICENSE
+
+A python library to assist in writing ethical python code. A python library to assist in writing ethical python code.

@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Ethical.egg-info/PKG-INFO
+Ethical.egg-info/SOURCES.txt
+Ethical.egg-info/dependency_links.txt
+Ethical.egg-info/top_level.txt
